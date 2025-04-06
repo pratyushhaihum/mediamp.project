@@ -1,11 +1,11 @@
 # mediamp.project
 Flask Backend with Authentication & Celery
->JWt authentication(login,signup,register)
+> JWT authentication(login,signup,register)
 >
->PostgreSql Database with Sql Alchemy
+> PostgreSql Database with Sql Alchemy
 >
->Celery for Background Tasks
+> Celery for Background Tasks
 >
->Redis for Task Queue
+> Redis for Task Queue
 >
->Dockerized Deployement
+> Dockerized Deployement
