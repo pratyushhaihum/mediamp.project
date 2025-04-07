@@ -22,8 +22,8 @@ Flask Backend with Authentication & Celery
 # │   │   └── auth_routes.py
 # │   ├── tasks.py
 # │   ├── utils/
-# │   │   ├── db.py
-# │   │   └── celery.py
-# ├── run.py
-# ├── requirements.txt
-# └── .env
+│   │   ├── db.py
+│   │   └── celery.py
+├── run.py
+├── requirements.txt
+ └── .env
