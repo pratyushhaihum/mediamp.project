@@ -12,7 +12,7 @@ Flask Backend with Authentication & Celery
 
 ## Directory Structure
 
-# flask_jwt_auth_backend/
+flask_jwt_auth_backend/
 ├── app/
 │   ├── __init__.py
 │   ├── config.py
