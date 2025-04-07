@@ -9,3 +9,21 @@ Flask Backend with Authentication & Celery
 > Redis for Task Queue
 >
 > Dockerized Deployement
+
+## Directory Structure
+
+# flask_jwt_auth_backend/
+# ├── app/
+# │   ├── __init__.py
+# │   ├── config.py
+# │   ├── models/
+# │   │   └── user.py
+# │   ├── routes/
+# │   │   └── auth_routes.py
+# │   ├── tasks.py
+# │   ├── utils/
+# │   │   ├── db.py
+# │   │   └── celery.py
+# ├── run.py
+# ├── requirements.txt
+# └── .env
